@@ -1,5 +1,5 @@
 import React from 'react'
-import { Typography, Stack, Button } from '@mui/material';
+import { Typography, Stack } from '@mui/material';
 
 const Detail = ({exerciseDetail}) => {
     ///OBJECT DE_STRUCTRURING / not to write exerciseDetail.bodyPart or etc every time
